@@ -1,0 +1,7 @@
+Programmer: Teepu Khan
+
+Please note that if you are more interested in seeing these solutions done in Java,
+you can view the same programs in Java in the 'Java Alternative' folder.
+
+Besides adapting each program's syntax for a different language, the content will remain
+largely the same.
